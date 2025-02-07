@@ -1,0 +1,1 @@
+This repository is intended to contain the source code associated with the paper "Fairness and Sparsity within Rashomon sets: Enumeration-Free Exploration and Characterization" authored by Lucas Langlade, Julien Ferry, Gabriel Laberge, and Thibaut Vidal. It will be updated very soon.
